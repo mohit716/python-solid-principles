@@ -29,3 +29,25 @@ def main():
 if __name__ == "__main__":
     main()
 
+
+
+# keyboard:
+## read
+
+#printer
+## write
+
+class reader
+    abastract def read :void;
+
+class writer:
+    abastradt def write: void
+    
+
+class keyboard implements reader():
+
+
+Main:
+    Reader reader = new keyboard
+
+
